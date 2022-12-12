@@ -1,7 +1,7 @@
 <h1 align="center">Hello Everyone 👋</h1>
 
 <div align="center">
-  <img src="https://giphy.com/gifs/kohli-virat-mpl-WtUQztjQ53fe5GDQ2j" align="center" allowFullScreen>
+  <img src="https://ineedanime.com/wp-content/uploads/2021/09/kakashi-hatake-hello.gif" align="center" allowFullScreen>
 </div>
 
 I am Ayush Singla. I like to code , travel , listening music 
